@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-third first line
-=======
-third first line
->>>>>>> second-branch
